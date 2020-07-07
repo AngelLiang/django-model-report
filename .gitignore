@@ -13,3 +13,5 @@ dist/
 .pydevproject
 .settings/*
 resetdb.sh
+
+.venv/
